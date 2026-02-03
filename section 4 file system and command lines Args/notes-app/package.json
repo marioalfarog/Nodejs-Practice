@@ -1,0 +1,17 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Practice npm import modules",
+  "license": "ISC",
+  "author": "Mario",
+  "type": "module",
+  "main": "app-import-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^13.15.26",
+    "yargs": "^18.0.0"
+  }
+}
